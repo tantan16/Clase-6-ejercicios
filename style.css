@@ -1,0 +1,68 @@
+
+.menu-superior .sketch{
+    font-family: Mulish;}
+
+    .header{
+        height: 70px;
+        width: 100%;
+    }
+
+    .logo .menu-superior{
+        background-color: #ffffff;
+        height: 70px;
+    }
+    .logo{
+        text-align: center;
+        margin right: 500px;
+        width: 200px;
+        padding-right: 680px;
+      }
+
+
+    .menu-superior{
+        display: inline-block;
+        margin-left: 40px;
+        font-size: 20px;
+        color: #7D7A9E;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+     
+    
+.contenido{
+    height: 800px;
+    width: 75%;
+    background-color:#F9F9FB;
+    text-align: center;
+    display: inline-block;
+}
+
+    .sketch{
+        display: inline-block;
+        width: 100px;
+        height: auto;
+        background-color: #ffffff;
+        border:1px solid #EBEBF2;
+        border-radius: 25px;
+        padding-bottom: 7px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        margin-left:900px;
+    }
+    
+    .sketch-imagen{
+        display: inline-block;
+        margin-top: 2px;
+        }
+
+    .notificación{
+    height: 200px;
+    width: 1200px;
+    margin-top: 40px;
+    }
+
+.lateral{
+    width: 25%;
+    display: inline-block;
+    padding:25px
+}
